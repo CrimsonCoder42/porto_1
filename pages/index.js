@@ -5,7 +5,7 @@ import { BsFillMoonStarsFill } from "react-icons/bs";
 export default function Home() {
   return (
     <div>
-        <title>Devin Anderson Porto1</title>
+        <title>Devin Porto1</title>
         <link rel="icon" href="/favicon.ico" />
       
     <main>
